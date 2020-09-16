@@ -1,0 +1,29 @@
+name: Lobby
+version: 1.0
+author: CalledCracki
+main: at.Cracki.Lobby.Main.Lobby
+
+commands:
+  build:
+    description: Setzt dich in den Build Modus.
+  fly:
+    description: Setzt dich in den Fly Modus.
+  gm:
+    description: Ändert deinen Spielmodus.
+  setup:
+    description: Zeigt das Setup Menü.
+  setwarp:
+    description: Setze die Warp Punkte für den Navigator.
+  spawn:
+    description: Teleportiert dich zum Spawn.
+  ts:
+    description: Zeigt die TS-Adresse an.
+  teamspeak:
+  discord:
+    description: Zeigt die Discord-Adresse an.
+  coins:
+    description: Allgemeiner Coins Command.
+  reloadcfg:
+    description: Ladet die Config.yml Datei neu.
+  Secrets:
+    description: Verwalte die Secrets.
